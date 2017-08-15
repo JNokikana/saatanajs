@@ -1,0 +1,19 @@
+{
+  "name": "saatanajs",
+  "version": "1.0.0",
+  "description": "A module for the J.A.I environment that handles Wolfram integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JNokikana/saatanajs.git"
+  },
+  "author": "Joonas Nousiainen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/JNokikana/saatanajs/issues"
+  },
+  "homepage": "https://github.com/JNokikana/saatanajs#readme"
+}
