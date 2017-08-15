@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JNokikana/saatanajs/issues"
   },
-  "homepage": "https://github.com/JNokikana/saatanajs#readme"
+  "homepage": "https://github.com/JNokikana/saatanajs#readme",
+  "dependencies":{
+    "wreck": "12.2.3"
+  }
 }
